@@ -1,0 +1,20 @@
+{
+    "app_switch": false,
+    "applink": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "google": 1,
+    "fb": 0,
+    "stream-by-match-id": 1,
+    "stream-by-match-id-page": 1,
+    "xoom-sports-stream": 0,
+    "php-stream": 0,
+    "isports-animation": 1,
+    "ads_click": 3,
+    "onesignalappid": "4b9cdb2a-b9fd-4e05-a45f-8927b6f123c3",
+    "GopenAds": "ca-app-pub-8376955896280462/6803631431",
+    "GBanner": "ca-app-pub-8376955896280462/1901200029",
+    "GInterstitial": "ca-app-pub-8376955896280462/8449290565",
+    "Gvideoads": "ca-app-pub-8376955896280462/2103922808",
+    "FBBanner": "IMG_16_9_APP_INSTALL#3547991548763382_3675106812718521",
+    "FBInterstitial": "IMG_16_9_APP_INSTALL#1199252587415693_1213737499300535",
+    "FBvideoads": "1199252587415693_1213737499300535"
+  }
