@@ -1,7 +1,7 @@
 {
   "app_switch": false,
   "applink": "https://play.google.com/store/apps/details?id=com.whatsapp",
-  "google": 1,
+  "google": 0,
   "fb": 0,
   "stream-by-match-id": 1,
   "stream-by-match-id-page": 1,
