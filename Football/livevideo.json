@@ -1,0 +1,41 @@
+{
+  "live_enable": 1,
+  "Live": [
+    {
+      "matchid": 1172435,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    },
+    {
+      "matchid": 1172436,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    },
+    {
+      "matchid": 1171748,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    },
+    {
+      "matchid": 1169252,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    },
+    {
+      "matchid": 1052460,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    },
+    {
+      "matchid": 1052456,
+      "m3u8": [
+        "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      ]
+    }
+  ]
+}
