@@ -1,10 +1,15 @@
 {
-    "admob": "true",
-    "facebook": "false",
-    "admob_bannerid": "ca-app-pub-3940256099942544/9214589741",
+    "admob": "false",
+    "facebook": "true",
+    "startapp": "false",
+    "admob_appid": "ca-app-pub-3940256099942544~3347511713",
+    "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
     "admob_intertestial_id": "ca-app-pub-3940256099942544/1033173712",
-    "facebook_banner": "784861826386892_784862726386802",
-    "facebook_intertesial": "784861826386892_784862779720130",
-    "intertestial_clicks": "3",
-    "admob_appopen": "ca-app-pub-3940256099942544/9257395921"
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_appopen": "ca-app-pub-3940256099942544/9257395000",
+    "facebook_banner": "282098271086956_282105187752931",
+    "facebook_intertesial": "282098271086956_282105464419570",
+    "facebook_native": "282098271086956_282106347752815",
+    "startapp_id": "203976809",
+    "intertestial_clicks": "3"
 }
