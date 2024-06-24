@@ -1,7 +1,7 @@
 {
-    "admob": "false",
-    "facebook": "true",
-    "startapp": "false",
+    "admob": "true",
+    "facebook": "false",
+    "startapp": "true",
     "admob_appid": "ca-app-pub-3940256099942544~3347511713",
     "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
     "admob_intertestial_id": "ca-app-pub-3940256099942544/1033173712",
