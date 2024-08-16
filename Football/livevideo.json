@@ -6,7 +6,7 @@
       "title": "sdvsdvsdvsdv",
       "type": "php",
       "m3u8": [
-        "http://stream.livenetsport.com:1935/cricket/1.stream/playlist.m3u8"
+        "http://playlist.m3u8"
       ]
     },
   {
@@ -14,7 +14,7 @@
       "title": "sdvsdvsdvsdv",
       "type": "php",
       "m3u8": [
-        "http://stream.livenetsport.com:1935/cricket/1.stream/playlist.m3u8"
+        "http://playlist.m3u8"
       ]
     },
   {
@@ -22,7 +22,7 @@
       "title": "sdvsdvsdvsdv",
       "type": "php",
       "m3u8": [
-        "http://stream.livenetsport.com:1935/cricket/1.stream/playlist.m3u8"
+        "http://playlist.m3u8"
       ]
     },
   {
@@ -30,7 +30,7 @@
       "title": "sdvsdvsdvsdv",
       "type": "m3u8",
       "m3u8": [
-        "http://stream.livenetsport.com:1935/cricket/1.stream/playlist.m3u8"
+        "http://playlist.m3u8"
       ]
     }
   ]
