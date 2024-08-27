@@ -1,0 +1,20 @@
+{
+    "base64key": "MIIBIjANBgkqhkiG9",
+    "package": [
+        {
+            "Price": "0.99",
+            "product_id": "monthly_subcription",
+            "status": 0
+        },
+        {
+            "Price": "0.99",
+            "product_id": "monthly_subcription",
+            "status": 0
+        },
+        {
+            "Price": "0.99",
+            "product_id": "monthly_subcription",
+            "status": 0
+        }
+    ]
+}
