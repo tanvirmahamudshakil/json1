@@ -2,16 +2,19 @@
     "base64key": "MIIBIjANBgkqhkiG9",
     "package": [
         {
+            "name": "1 Month",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
         },
         {
+            "name": "3 Month",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
         },
         {
+            "name": "6 Month",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
