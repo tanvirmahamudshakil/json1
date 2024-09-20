@@ -3,18 +3,21 @@
     "package": [
         {
             "name": "1 Month",
+            "pkg_month": "monthly",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
         },
         {
             "name": "3 Month",
+            "pkg_month": "monthly",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
         },
         {
             "name": "6 Month",
+            "pkg_month": "monthly",
             "Price": "0.99",
             "product_id": "monthly_subcription",
             "status": 0
