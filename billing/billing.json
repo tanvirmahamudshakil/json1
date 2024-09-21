@@ -12,14 +12,14 @@
             "name": "1 Year",
             "pkg_month": "monthly",
             "Price": "0.99",
-            "product_id": "one-year",
+            "product_id": "one_year",
             "status": 0
         },
         {
             "name": "6 Month",
             "pkg_month": "monthly",
             "Price": "0.99",
-            "product_id": "six-month",
+            "product_id": "six_month",
             "status": 0
         },
         {
