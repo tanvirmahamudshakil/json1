@@ -1,14 +1,20 @@
 [
-    {
-        "id": 1,
-        "seriesid": 124644
-    },
-    {
-        "id": 1,
-        "seriesid": 122995
-    },
-    {
-        "id": 1,
-        "seriesid": 124727
-    }
+  {
+    "series_name": "Women's Premier League",
+    "series_slug": "womens-premier-league",
+    "country": "India",
+    "country_slug": "india"
+  },
+  {
+    "series_name": "Women's Premier League",
+    "series_slug": "womens-premier-league",
+    "country": "India",
+    "country_slug": "india"
+  },
+  {
+    "series_name": "Women's Premier League",
+    "series_slug": "womens-premier-league",
+    "country": "India",
+    "country_slug": "india"
+  }
 ]
