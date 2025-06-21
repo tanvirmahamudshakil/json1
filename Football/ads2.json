@@ -1,5 +1,5 @@
 {
-    "admob": "true",
+    "admob": true,
     "facebook": "false",
     "startapp": "false",
     "admob_appid": "ca-app-pub-3940256099942544~3347511713",
