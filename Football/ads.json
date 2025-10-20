@@ -4,7 +4,7 @@
   "google": 1,
   "fb": 0,
   "stream_by_match_id": 1,
-  "stream_by_match_id_page": 1,
+  "stream_by_match_id_page": 0,
   "xoom_sports_stream": 1,
   "php_stream": 1,
   "isports_animation": 1,
