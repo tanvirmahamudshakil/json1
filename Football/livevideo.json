@@ -2,131 +2,106 @@
   "live_enable": 1,
   "Live": [
     {
-      "matchid": 1418528,
-      "title": "sdvsdvsdvsdv",
+      "matchid": 1379068,
+      "title": "Newcastle",
       "type": "m3u8",
-      "visit_url": "https://www.google.com",
+      "visit_url": "",
       "m3u8": [
-        {
-          "name": "Server 1",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 2",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 3",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 4",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        },
-        {
-          "name": "Server 5",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 6",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 7",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 8",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        },
-        {
-          "name": "Server 9",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 10",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 11",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 12",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        }
+        { "name": "Server 1", "url": "http://51.159.130.91:1935/cricket/10.stream/playlist.m3u8" },
+        { "name": "Server 2", "url": "http://stream.fcgool.com:1935/cricket/9.stream/playlist.m3u8" },
+        { "name": "Server 3", "url": "http://stream.fcgool.com:1935/cricket/43.stream/playlist.m3u8" }
       ]
     },
     {
-      "matchid": 1479251,
-      "title": "sdvsdvsdvsdv",
+      "matchid": 1379064,
+      "title": "Manchester",
       "type": "m3u8",
-      "visit_url": "https://www.google.com",
+      "visit_url": "",
       "m3u8": [
-        {
-          "name": "Server 1",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 2",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 3",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 4",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        }
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/10.stream/playlist.m3u8" },
+        { "name": "Server 2", "url": "http://stream.fcgool.com:1935/cricket/9.stream/playlist.m3u8" },
+        { "name": "Server 3", "url": "http://stream.fcgool.com:1935/cricket/43.stream/playlist.m3u8" }
       ]
     },
     {
-      "matchid": 1126062,
-      "title": "sdvsdvsdvsdv",
+      "matchid": 1390924,
+      "title": "Levante",
       "type": "m3u8",
-      "visit_url": "https://www.google.com",
+      "visit_url": "",
       "m3u8": [
-        {
-          "name": "Server 1",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 2",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 3",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 4",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        }
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
       ]
     },
     {
-      "matchid": 1126063,
-      "title": "sdvsdvsdvsdv",
+      "matchid": 1390919,
+      "title": "Alaves",
       "type": "m3u8",
-      "visit_url": "https://www.google.com",
+      "visit_url": "",
       "m3u8": [
-        {
-          "name": "Server 1",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "name": "Server 2",
-          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
-        },
-        {
-          "name": "Server 3",
-          "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
-        },
-        {
-          "name": "Server 4",
-          "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        }
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1390921,
+      "title": "Barcelona",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1390922,
+      "title": "Mallorca",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1377955,
+      "title": "Fiorentina",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1377961,
+      "title": "Torino",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/47.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1377959,
+      "title": "Parma",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1377957,
+      "title": "Milan",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
+      ]
+    },
+    {
+      "matchid": 1387794,
+      "title": "Germain",
+      "type": "m3u8",
+      "visit_url": "",
+      "m3u8": [
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/15.stream/playlist.m3u8" }
       ]
     }
   ]
