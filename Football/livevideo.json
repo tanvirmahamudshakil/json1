@@ -2,43 +2,14 @@
   "live_enable": 1,
   "Live": [
     {
-      "matchid": 1379068,
-      "title": "Newcastle",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://51.159.130.91:1935/cricket/10.stream/playlist.m3u8" },
-        { "name": "Server 2", "url": "http://stream.fcgool.com:1935/cricket/9.stream/playlist.m3u8" },
-        { "name": "Server 3", "url": "http://stream.fcgool.com:1935/cricket/43.stream/playlist.m3u8" }
-      ]
-    },
-    {
       "matchid": 1379064,
       "title": "Manchester",
       "type": "m3u8",
       "visit_url": "",
       "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/10.stream/playlist.m3u8" },
-        { "name": "Server 2", "url": "http://stream.fcgool.com:1935/cricket/9.stream/playlist.m3u8" },
-        { "name": "Server 3", "url": "http://stream.fcgool.com:1935/cricket/43.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1390924,
-      "title": "Levante",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1390919,
-      "title": "Alaves",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
+        { "name": "Server 1", "url": "http://51.159.173.69:1935/cricket/9.stream/playlist.m3u8" },
+        { "name": "Server 2", "url": "http://51.159.173.69:1935/cricket/10.stream/playlist.m3u8" },
+        { "name": "Server 3", "url": "http://51.159.173.69:1935/cricket/43.stream/playlist.m3u8" }
       ]
     },
     {
@@ -47,7 +18,7 @@
       "type": "m3u8",
       "visit_url": "",
       "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/44.stream/playlist.m3u8" }
       ]
     },
     {
@@ -56,25 +27,7 @@
       "type": "m3u8",
       "visit_url": "",
       "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/12.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1377955,
-      "title": "Fiorentina",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1377961,
-      "title": "Torino",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/47.stream/playlist.m3u8" }
+        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/44.stream/playlist.m3u8" }
       ]
     },
     {
