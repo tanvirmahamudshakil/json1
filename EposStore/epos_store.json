@@ -4,6 +4,7 @@
      "version_code": "3",
      "download": "https://yumaapp.uk/apk/crm",
      "oldVersion": "1.0.0",
-     "oldVersionCode": "3"
+     "oldVersionCode": "3",
+     "package": "com.epos.waiter"
 
 }]
