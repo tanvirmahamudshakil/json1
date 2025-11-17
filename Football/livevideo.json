@@ -1,61 +1,29 @@
 {
-  "live_enable": 1,
-  "Live": [
-    {
-      "matchid": 1379064,
-      "title": "Manchester",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://51.159.173.69:1935/cricket/9.stream/playlist.m3u8" },
-        { "name": "Server 2", "url": "http://51.159.173.69:1935/cricket/10.stream/playlist.m3u8" },
-        { "name": "Server 3", "url": "http://51.159.173.69:1935/cricket/43.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1390921,
-      "title": "Barcelona",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/44.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1390922,
-      "title": "Mallorca",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/44.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1377959,
-      "title": "Parma",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1377957,
-      "title": "Milan",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/46.stream/playlist.m3u8" }
-      ]
-    },
-    {
-      "matchid": 1387794,
-      "title": "Germain",
-      "type": "m3u8",
-      "visit_url": "",
-      "m3u8": [
-        { "name": "Server 1", "url": "http://stream.fcgool.com:1935/cricket/15.stream/playlist.m3u8" }
-      ]
-    }
-  ]
+    "live_enable": 1,
+    "Live": [
+        {
+            "matchid": 1323361,
+            "title": " Hungary",
+            "premium": "1-2-3",
+            "m3u8": [
+                "http://stream.fcgool.com:1935/cricket/1.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "matchid": 1366320,
+            "title": " Portugal",
+            "premium": "1-2-3",
+            "m3u8": [
+                "http://stream.fcgool.com:1935/cricket/2.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "matchid": 1486230,
+            "title": " Greece",
+            "premium": "1-2-3",
+            "m3u8": [
+                "http://stream.fcgool.com:1935/cricket/11.stream/playlist.m3u8"
+            ]
+        }
+    ]
 }
