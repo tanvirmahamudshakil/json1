@@ -6,7 +6,7 @@
             "title": " Hungary",
             "premium": "1-2-3",
             "m3u8": [
-                "http://stream.fcgool.com:1935/cricket/1.stream/playlist.m3u8"
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
             ]
         },
         {
@@ -14,7 +14,7 @@
             "title": " Portugal",
             "premium": "1-2-3",
             "m3u8": [
-                "http://stream.fcgool.com:1935/cricket/2.stream/playlist.m3u8"
+                "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
             ]
         },
         {
@@ -22,7 +22,7 @@
             "title": " Greece",
             "premium": "1-2-3",
             "m3u8": [
-                "http://stream.fcgool.com:1935/cricket/11.stream/playlist.m3u8"
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
             ]
         }
     ]
