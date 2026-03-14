@@ -4,24 +4,66 @@
         {
             "matchid": 1323361,
             "title": " Hungary",
-            "premium": "1-2-3",
+            "team_1_name": "team 1 name",
+            "team_2_name": "team 2 name",
+            "team_1_img": "http://team1img.jpg",
+            "team_2_img": "http://team2img.jpg",
+            
             "m3u8": [
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
                 "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
             ]
         },
         {
             "matchid": 1366320,
             "title": " Portugal",
-            "premium": "1-2-3",
+            "team_1_name": "team 1 name",
+            "team_2_name": "team 2 name",
+            "team_1_img": "http://team1img.jpg",
+            "team_2_img": "http://team2img.jpg",
             "m3u8": [
-                "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
             ]
         },
         {
             "matchid": 1486230,
             "title": " Greece",
-            "premium": "1-2-3",
+            "team_1_name": "team 1 name",
+            "team_2_name": "team 2 name",
+            "team_1_img": "http://team1img.jpg",
+            "team_2_img": "http://team2img.jpg",
             "m3u8": [
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
+            ]
+        },
+        {
+            "matchid": 1486230,
+            "title": " Greece",
+            "team_1_name": "team 1 name",
+            "team_2_name": "team 2 name",
+            "team_1_img": "http://team1img.jpg",
+            "team_2_img": "http://team2img.jpg",
+            "m3u8": [
+               "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
+            ]
+        },
+        {
+            "matchid": 1486230,
+            "title": " Greece",
+            "team_1_name": "team 1 name",
+            "team_2_name": "team 2 name",
+            "team_1_img": "http://team1img.jpg",
+            "team_2_img": "http://team2img.jpg",
+            "m3u8": [
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
+                "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8",
                 "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8"
             ]
         }
