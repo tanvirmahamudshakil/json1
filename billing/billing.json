@@ -1,33 +1,25 @@
 {
-    "base64key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzaRK+KdED0VCarkI5o7LfYGxqS7ZZfmCJRyUgClTssPc439hG415JFnxPzghHt6VvOe77QVjKecbUpNIB8wRwbaQAm4Zysy6CN2tH3unny5yOYSeZULdBCWYcFvpEKk0Y7+1QN4EUAOW0bMnK2gd4frgGmXOKoCO2Xv48GHymgsI/QhS5YZq6N+p2J6PuIVSeYLLsLEQnAUVHZY58vDrSD6HPAbqQpxkafo5IXKtDEHKwMXjv5djeBRGMGz51+iXRytkJbSFt3fBS85jY2gW4kB9ld5RFjmcWOqzRhQU+CpnYS2MDqoYMhhZU9vUOLKAxlEDkCXd5GUk38hmMwEGsQIDAQAB",
-    "package": [
-        {
-            "name": "1 Month",
-            "pkg_month": "monthly",
-            "Price": "0.99",
-            "product_id": "monthly",
-            "status": 0
-        },
-        {
-            "name": "1 Year",
-            "pkg_month": "monthly",
-            "Price": "0.99",
-            "product_id": "one_year",
-            "status": 0
-        },
-        {
-            "name": "6 Month",
-            "pkg_month": "monthly",
-            "Price": "0.99",
-            "product_id": "six_month",
-            "status": 0
-        },
-        {
-            "name": "Weekly",
-            "pkg_month": "monthly",
-            "Price": "0.99",
-            "product_id": "weekly",
-            "status": 0
-        }
+  [
+      {
+        "subscription_id": "weekly",
+        "subscription_name": "Weekly Subscription",
+        "duration_unit": "week",
+        "month": 1,
+        "details": "🔥 Premium Features\n⚡ Full HD & Full Screen Streaming\n🚫📢 Ads Free Experience\n📊 Live Match Statistics & Analytics\n👥 Team Lineups & Player Insights\n⏰ Match Start Reminders & Notifications\n📰 Exclusive Premium Football News\n🎥 Smooth & Fast Live Streaming\n🌍 Multiple League Coverage Worldwide"
+      },
+      {
+        "subscription_id": "montly",
+        "subscription_name": "Monthly Subscription",
+        "duration_unit": "month",
+        "month": 1,
+        "details": "🔥 Premium Features\n⚡ Full HD & Full Screen Streaming\n🚫📢 Ads Free Experience\n📊 Live Match Statistics & Analytics\n👥 Team Lineups & Player Insights\n⏰ Match Start Reminders & Notifications\n📰 Exclusive Premium Football News\n🎥 Smooth & Fast Live Streaming\n🌍 Multiple League Coverage Worldwide"
+      },
+      {
+        "subscription_id": "sixmonth",
+        "subscription_name": "Six Month Subscription",
+        "duration_unit": "month",
+        "month": 6,
+        "details": "🔥 Premium Features\n⚡ Full HD & Full Screen Streaming\n🚫📢 Ads Free Experience\n📊 Live Match Statistics & Analytics\n👥 Team Lineups & Player Insights\n⏰ Match Start Reminders & Notifications\n📰 Exclusive Premium Football News\n🎥 Smooth & Fast Live Streaming\n🌍 Multiple League Coverage Worldwide"
+      }
     ]
 }
